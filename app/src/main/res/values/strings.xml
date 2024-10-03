@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Recipes</string>
+    <string name="see_all">See all</string>
+    <string name="beef_foods">Beef foods</string>
+    <string name="seafoods">Seafoods</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="search">Search</string>
+    <string name="food_not_found">There isn\'t any food with this name</string>
+</resources>
